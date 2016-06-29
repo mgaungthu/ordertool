@@ -1,0 +1,17 @@
+[29-Jul-2015 12:36:24 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 272
+[29-Jul-2015 12:39:47 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 496
+[29-Jul-2015 12:39:55 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 272
+[29-Jul-2015 12:40:20 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 496
+[29-Jul-2015 12:40:26 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 272
+[29-Jul-2015 12:40:54 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 496
+[29-Jul-2015 12:42:45 Europe/Moscow] PHP Fatal error:  Call to undefined method Main_model::delete_select_tbl() in /home/thenexth/public_html/ERP/application/controllers/hr.php on line 272
+[30-Jul-2015 07:14:47 Europe/Moscow] PHP Fatal error:  Call to undefined method Class_model::search_finance() in /home/thenexth/public_html/ERP/application/controllers/finance.php on line 483
+[05-Aug-2015 07:17:37 Europe/Moscow] PHP Fatal error:  Call to undefined method Class_model::search_finance() in /home/thenexth/public_html/ERP/application/controllers/finance.php on line 497
+[02-Sep-2015 11:57:57 Europe/Moscow] PHP Fatal error:  Call to undefined function region_translate() in /home/thenexth/public_html/ERP/application/views/setting/define_region.php on line 26
+[03-Sep-2015 14:58:46 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/thenexth/public_html/ERP/application/views/finance/monthly_name_list.php on line 33
+[03-Sep-2015 14:59:31 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<' in /home/thenexth/public_html/ERP/application/views/finance/monthly_name_list.php on line 33
+[20-Dec-2015 17:11:08 Asia/Rangoon] PHP Fatal error:  Call to a member function query() on a non-object in /home/kanzaw/public_html/y_top/application/models/main_model.php on line 204
+[08-May-2016 04:53:01 America/Chicago] PHP Fatal error:  Call to a member function get_datatables() on a non-object in /home/kanzaw/public_html/y_top/application/controllers/admin.php on line 32
+[08-May-2016 04:57:58 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::group_start() in /home/kanzaw/public_html/y_top/application/models/table_model.php on line 31
+[08-May-2016 04:58:08 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::group_start() in /home/kanzaw/public_html/y_top/application/models/table_model.php on line 31
+[08-May-2016 04:58:09 America/Chicago] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::group_start() in /home/kanzaw/public_html/y_top/application/models/table_model.php on line 31
